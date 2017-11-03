@@ -1,0 +1,15 @@
+
+ //imports voor de abstracten
+@import 'abstracts/_variables.scss';
+
+    ///////Deze scss kan ik niet importeren, en ik versta niet waarom. ///////
+@import 'abstracts/_functions.scss)';
+//@import 'abstracts/_mixins.scss)';
+    
+ //@for $i from 1 through 4{
+//    h#{$i} {font: $font-h#{$i}}
+//}
+ 
+h1{
+    background-color:  $color9;
+} 
